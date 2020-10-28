@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 PROTIC II is a collaboration between Monash Faculty of Information Technology and OXFAM that focuses on digital citizenship for members of disadvantaged communities in Bangladesh.
 ‘PROTIC’ means a sign or symbol in Bengali. This word therefore articulates the symbol of development and progress, the sign of digitisation, a token of recognition (of community voice) and the image of action research (by Monash and Oxfam).
 Endowed with a $2.15 million philanthropic fund, PROTIC II is the second phase of PROTIC, a five-year international development project that was dedicated to empowering rural women in Bangladesh. One element of this initiative was supporting these women through the use of mobile devices 
