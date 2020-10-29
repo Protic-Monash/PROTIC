@@ -1,15 +1,14 @@
-PROTIC II is a collaboration between Monash Faculty of Information Technology and OXFAM that focuses on digital citizenship for members of disadvantaged communities in Bangladesh.
+PROTIC 2 is a collaboration between Monash Faculty of Information Technology and OXFAM that focuses on digital citizenship for members of disadvantaged communities in Bangladesh.
 ‘PROTIC’ means a sign or symbol in Bengali. This word therefore articulates the symbol of development and progress, the sign of digitisation, a token of recognition (of community voice) and the image of action research (by Monash and Oxfam).
-Endowed with a $2.15 million philanthropic fund, PROTIC II is the second phase of PROTIC, a five-year international development project that was dedicated to empowering rural women in Bangladesh. One element of this initiative was supporting these women through the use of mobile devices 
+Endowed with a $2.15 million philanthropic fund, PROTIC 2 is the second phase of PROTIC, a five-year international development project that was dedicated to empowering rural women in Bangladesh. One element of this initiative was supporting these women through the use of mobile devices 
 
-**Project objectives**
+Project objectives
 The project seeks to articulate the impact of societal digital transformation initiatives on disadvantaged and low-literacy communities. It also aims to develop contextually and culturally-sensitive strategies and actions to ensure that citizens are not marginalised further.
 
 ## Project
 
-PROTIC 2  is working with partners in Bangladesh on 2 projects focusing on empowering 2 marginalised groups: 
-Female domestic workers and Hilsa fisherfolks. 
-- The Securing Rights of Women Domestic Workers in Bangladesh, supported by Global Affairs Canada,  aim at strengthening the agency of women domestic workers to claim and defend their rights in relation to decent employment. Partners in Bangladesh include Oxfam Bangladesh, the Bangladesh Institute of Labour Studies (BILS), CAMPE, HelloTask, NariMaitree, RedOrangeMedia and Communications, and UCEP Bangladesh.
+PROTIC 2 is working with partners in Bangladesh on 2 projects focusing on empowering 2 marginalised groups: 
+- Female domestic workers and Hilsa fisherfolks. The Securing Rights of Women Domestic Workers in Bangladesh, supported by Global Affairs Canada,  aim at strengthening the agency of women domestic workers to claim and defend their rights in relation to decent employment. Partners in Bangladesh include Oxfam Bangladesh, the Bangladesh Institute of Labour Studies (BILS), CAMPE, HelloTask, NariMaitree, RedOrangeMedia and Communications, and UCEP Bangladesh.
 - Trans-Boundary  Rivers Of South Asia (TROSA), supported by the Government of Sweden, aim at reducing poverty and marginalisation among vulnerable river fishing communities through access to and control over the riverine water resources on which their livelihood depends. Partners in Bangladesh include Oxfam Bangladesh, CNRS and GUK.
 
 ## People and Partners
@@ -88,27 +87,6 @@ Conference papers
 - Dehghani, M., Denison, T., & Stillman, L. (2018). Shared collaborative spaces challenges in inter-organisational collaborative projects. In PACIS 2018 Proceedings, 199; https://aisel.aisnet.org/pacis2018/199
 - Jannat, F., Chakraborty, T.R., Aktar, P. and Stillman, L. (2018). Evaluating a smartphone phone project in Bangladesh through community monthly meeting reports, in Stillman, L. and Anwar, M. (eds), Proceedings of the 16th CIRN Conference, Monash University, Prato, Italy, 24-28 October, pp. 110-124; https://www.monash.edu/__data/assets/pdf_file/0011/1787519/cirn2018_proc_revised2.pdf
 - Mougouei, D., Perera, H., Hussain, W., Shams, R., & Whittle, J. (2018). Operationalizing human values in software: a research roadmap. ESEC/FSE 2018: Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, pp. 780-784; https://doi.org/10.1145/3236024.3264843
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Protic-Monash/PROTIC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
