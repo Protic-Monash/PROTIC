@@ -89,8 +89,3 @@ Conference papers
 - Jannat, F., Chakraborty, T.R., Aktar, P. and Stillman, L. (2018). Evaluating a smartphone phone project in Bangladesh through community monthly meeting reports, in Stillman, L. and Anwar, M. (eds), Proceedings of the 16th CIRN Conference, Monash University, Prato, Italy, 24-28 October, pp. 110-124; https://www.monash.edu/__data/assets/pdf_file/0011/1787519/cirn2018_proc_revised2.pdf
 - Mougouei, D., Perera, H., Hussain, W., Shams, R., & Whittle, J. (2018). Operationalizing human values in software: a research roadmap. ESEC/FSE 2018: Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, pp. 780-784; https://doi.org/10.1145/3236024.3264843
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Protic-Monash/PROTIC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
