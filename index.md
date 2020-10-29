@@ -14,6 +14,12 @@ PROTIC 2 is working with partners in Bangladesh on 2 projects focusing on empowe
 - Female domestic workers and Hilsa fisherfolks. The Securing Rights of Women Domestic Workers in Bangladesh, supported by Global Affairs Canada,  aim at strengthening the agency of women domestic workers to claim and defend their rights in relation to decent employment. Partners in Bangladesh include Oxfam Bangladesh, the Bangladesh Institute of Labour Studies (BILS), CAMPE, HelloTask, NariMaitree, RedOrangeMedia and Communications, and UCEP Bangladesh.
 - Trans-Boundary  Rivers Of South Asia (TROSA), supported by the Government of Sweden, aim at reducing poverty and marginalisation among vulnerable river fishing communities through access to and control over the riverine water resources on which their livelihood depends. Partners in Bangladesh include Oxfam Bangladesh, CNRS and GUK.
 
+
+
+
+
+
+
 ## People and Partners
 
 **Monash Faculty of IT**
@@ -29,6 +35,15 @@ Department of Human Centred Computing
 Department of Software Systems and Cybersecurity
 - Prof John Grundy
 
+
+
+
+
+
+
+
+
+
 ## News and Events
 
 **The 83rd Annual Meeting of the Association for Information Science and Technology Information for a Sustainable World: _Addressing Society’s Grand Challenges_
@@ -41,6 +56,18 @@ Information and communications technology for development (ICT4D), which is devo
 ## Media and Publications
 
 ---- TBP
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
